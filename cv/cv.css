@@ -1,22 +1,27 @@
+body{
+width: 100%;
+padding: 0px auto;
+margin: 0px;
+}
 #d1 {
 width: 100%;
-height: 100%;
-margin-top:-1.9% ;
 }
 
 #d2{
 width: 28%;
 height: 100%;
+margin-top: 0px;
+padding-top: 0px;
 float: left;
 margin-right: 5px;
 background-color: darkgrey;
-
 }
 
 #d3{
     width: 71%;
     height: 100%;
     float: left;
+    border: 2px solid blue;
     background-color: beige;
     }
 
