@@ -1,0 +1,206 @@
+body
+{
+    width:100%;
+    margin:0px;
+    padding:0px;
+ text-align:center;
+background-color: rgb(230, 245, 240); 
+}
+#d1
+{
+ width:100%;
+ min-width:970px;
+ height: 100px;
+ background-color:#475e8f;
+
+}
+#d{
+padding-top: 5px;
+width: 20px;
+float: left;
+}
+
+#d2
+{
+ width:970px;
+ margin:0px auto;
+ padding:0px;
+ height:85px;
+}
+#d2 li
+{
+ float:left;
+ text-align:left;
+ list-style-type:none;
+ color:white;
+}
+#d2 form li
+{
+ font-size:13px;
+ margin-left:15px;
+}
+#d2 form li a
+{
+ color:#A9BCF5;
+ text-decoration:none;
+}
+#d2 form
+{
+ margin-top:15px;
+ float:right;
+}
+
+#d2 form input[type="text"]
+{
+ margin-top:3px;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;
+}
+#d2 form input[type="password"]
+{
+ margin-top:3px;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;
+}
+#d2 form input[type="submit"]
+{
+ height:25px;
+ margin-top:20px;
+ background-color:#084B8A;
+ color:white;
+ border:1px solid #08298A;
+}
+#d3
+{
+ margin:0 auto;
+ padding:0px;
+ text-align:center;
+ width:980px;
+}
+#d3 div
+{
+ float:left;
+ font-family: helvetica;
+}
+#d3 #a
+{
+ margin-top:30px;
+ width:590px;
+ text-align:left;
+}
+#d3 #a p
+{
+ font-size:20px;
+ font-family:arial;
+ font-weight:bold;
+ margin:0px;
+ color:#0e385f;
+}
+#d3 #b
+{
+ margin-top:10px;
+ width:390px;
+ text-align:left;
+}
+#d3 #b h1
+{
+ margin:0px;
+ font-size:37px;
+ color:#2E2E2E;
+}
+#d3 #b p
+{
+ font-size:18px;
+ color:#2E2E2E;
+}
+#d3 #b li
+{
+ list-style-type:none;
+ margin-top:10px;
+}
+#d3 #b li #f1
+{
+ width:70%;
+}
+#d3 #b li #f2
+{
+    width:70%;
+}
+#d3 #b li #f3
+{
+    width:70%;
+}
+#d3 #b li #f4
+{
+    width:70%;
+}
+#d3 #b li input[type="text"]
+{
+ width:100%;
+ height:40px;
+ border-radius:5px;
+ padding-left:10px;
+ font-size:18px;
+ border:1px solid #BDBDBD;
+}
+#d3 #b li input[type="password"]
+{
+ width:100%;
+ height:40px;
+ border-radius:5px;
+ padding-left:10px;
+ font-size:20px;
+ border:1px solid #a8a2a2;
+}
+#d3 #b li select 
+{
+ padding:4px;
+ float:left;
+}
+#d3 #b text{
+float: left;
+}
+
+#d3 #b li a
+{
+padding:4px;
+ float:left;
+ color:#045FB4;
+ text-decoration:none;
+
+}
+#d3 #b li a:hover
+{
+ text-decoration:underline;
+}
+#d3 #b li
+{
+ color:#2E2E2E;
+ font-size:18px;
+}
+
+#d3 #b li input[type="submit"]
+{
+ width:200px;
+ height:40px;
+ text-align:center;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ font-weight: bold;
+ font-size:20px;
+ background-color: #69a74e;
+ border: 1px solid;
+ border-radius: 5px;
+ color: #fff;
+ display: inline-block;
+}
+#d3 #b li input[type="submit"]:hover{
+    text-decoration-color: red;
+}
+
