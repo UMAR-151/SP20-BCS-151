@@ -1,12 +1,15 @@
+body{
+    width: 100%;
+
+}
 #a{
     width: 100%;
-    height: 100%;
     margin: -0.6%;
     margin-right: -20%;
     text-align: center;
-
+    
 }
-#c1{
+#a #st #c1{
         width: 55%;
         height: 37px;
         float: left;
@@ -17,7 +20,7 @@
 
 }
 
-#c{
+#a #st #c{
     width: 11%;
     height: 50px;
     background-color:#deb3fa;
@@ -44,7 +47,7 @@
 float: left;
 
 }
-#st{
+#a #st{
     width: 100%;
     position: static;
 }
@@ -157,4 +160,13 @@ text-decoration: none;
         height: 100%;
         float: left;   
         padding-top: 1%;
+    }
+    #d1{
+
+        width: 102%;
+    height: 150px;
+    background-color:#460670;
+    float: left;
+    text-align: center;
+    padding-top: 4%;   
     }
